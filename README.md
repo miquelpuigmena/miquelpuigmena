@@ -5,7 +5,6 @@ Find my [CV](https://github.com/miquelpuigmena/resumee/blob/master/CV_compressed
 - **University Subsidized** by a project build from scratch with a group of 3 colleagues. [Find out more](#chanchus).
 - **Telecommunications Engineer** graduated at Universitat Politecnica de Catalunya and Thesis developed in collaboration with Lund University.
 - **Top 3 Award at MLH** Oxford Hackathon. Find out more at Project's repo [here](https://github.com/miquelpuigmena/FairFlight).
-- Proud of **Blockchain based solution for GDPR - Anti Terrorism law ambiguity**.
 
 ## Education
 | University                           | Degree                       | Graduation Date | Country |
